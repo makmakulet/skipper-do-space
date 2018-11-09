@@ -1,0 +1,19 @@
+{
+  "name": "skipper-do-space",
+  "version": "2.0.0",
+  "description": "SailsJS Skipper adapter to upload files to Digital Ocean Space",
+  "main": "index.js",
+  "author": {
+    "name": "makmakulet",
+    "email": "makmakulet@gmail.com"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.335.0",
+    "lodash": "^4.13.1",
+    "stderror": "^0.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makmakulet/skipper-do-space.git"
+  }
+}
