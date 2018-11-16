@@ -10,6 +10,7 @@
   "dependencies": {
     "aws-sdk": "^2.335.0",
     "lodash": "^4.13.1",
+    "sharp": "^0.21.0",
     "stderror": "^0.2.1"
   },
   "repository": {
