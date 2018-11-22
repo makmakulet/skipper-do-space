@@ -25,7 +25,7 @@ an object containing parameters to authenticate to digital ocean.
 #### params
 
 | Option | Type | Required | Default
-|--|--|:--:|--|--|
+|--|--|:--:|--|
 | endpoint | string  | Y | sgp1.digitaloceanspaces.com 
 | bucket | string  | Y | null
 | key | string  | Y | null
@@ -37,7 +37,7 @@ an object containing parameters to compress images
 #### params
 
 | Option | Type | Required | Default
-|--|--|:--:|--|--|
+|--|--|:--:|--|
 | enabled | boolean  | N | false
 | width | number (px)  | N | 500
 | height | number (px) | N | null
